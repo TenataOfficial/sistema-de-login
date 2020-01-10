@@ -1,0 +1,13 @@
+c:\users\tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\bin\Debug\TheDeathInsideOfDarkness.exe.config
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.Form1.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.Resources.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.vbproj.GenerateResource.Cache
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\bin\Debug\TheDeathInsideOfDarkness.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\bin\Debug\TheDeathInsideOfDarkness.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\bin\Debug\TheDeathInsideOfDarkness.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.Form2.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.começo.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\TheDeathInsideOfDarkness\TheDeathInsideOfDarkness\obj\Debug\TheDeathInsideOfDarkness.contdh.resources
